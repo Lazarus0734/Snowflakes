@@ -7,3 +7,6 @@ or use a custom taskbar replacement. It requires Windows 10 or later.
 I can’t guarantee that I’ll continue working on this project in the future, but it is completely open-source,
 so feel free to edit it yourself. Enjoy!
 
+## Download
+
+* **[Download Snowflakes v1.0.0 (.exe)](https://github.com/Lazarus0734/Snowflakes/releases/download/v1.0.0/snowflakes_1.0.0.exe)** — or check the [Releases page](https://github.com/Lazarus0734/Snowflakes/releases) for all versions.
